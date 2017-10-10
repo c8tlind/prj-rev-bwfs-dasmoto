@@ -7,7 +7,8 @@ html {
   font-weight: bold;
   color: khaki;
   text-align: center;
-  background-image: url("/Users/Caitlin/Desktop/HTML/Projects/Dasmotos/resources/images/pattern.jpeg");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  /* Originally had a direct link from desktop, but switched to web link */
 }
 
 h2 {
